@@ -17,21 +17,21 @@
 ## ⚙ &nbsp;TRANSMISSION LOG
 
 ```
-> whoami
+> Who am I
 Aagam Shah — "Gearhead_32"
 First-year BSc Computer Science (AI major), Western Sydney University
 Also running a Certificate IV in ICT @ TAFE NSW, in parallel
 
-> status
-Member of the RAM Club (Robotics, Automation & Manufacturing)
-  — CAD design + RoboCup Small Size League demonstrations
+> Status
 Built and shipped small web tools, dev-portfolio kits, and a
 neurodivergent-friendly desktop companion app (Nanobox)
+Formerly with the RAM Club (Robotics, Automation & Manufacturing)
+  — CAD design + RoboCup Small Size League demonstrations
 
-> interests
-Where clean software design meets physical machines —
-half of what I build lives in a browser, the other half
-would look at home bolted to a control panel.
+> Interests
+Off the clock, I dig through AI tools — anything from tiny
+one-person projects to the big names like Claude — looking
+for a genuine personal use case rather than just the hype.
 ```
 
 <br/>
@@ -60,8 +60,8 @@ would look at home bolted to a control panel.
 
 **Currently exploring**
 &nbsp;·&nbsp; Machine learning fundamentals, alongside the AI major
-&nbsp;·&nbsp; Robotics & embedded systems, through the RAM Club
-&nbsp;·&nbsp; Interface design — where the two above actually get used
+&nbsp;·&nbsp; AI tools of all sizes, hunting for genuinely useful personal workflows
+&nbsp;·&nbsp; Interface design — where the above actually get used
 
 <br/>
 
