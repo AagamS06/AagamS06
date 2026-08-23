@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%"/>
+<img src="header.svg" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=4169E1&center=true&vCenter=true&width=560&lines=Building+at+the+edge+of+code+%26+machine;CS+%2B+AI+%40+Western+Sydney+University;Robotics+%C2%B7+Web+%C2%B7+Automation" alt="Typing SVG" />
 
@@ -141,6 +141,6 @@ Web app that turns dense tech jargon into plain, everyday English — for the av
 
 <br/><br/>
 
-<img src="./assets/footer.svg" width="100%"/>
+<img src="footer.svg" width="100%"/>
 
 </div>
