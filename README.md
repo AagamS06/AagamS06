@@ -8,7 +8,7 @@
 
 <img src="https://img.shields.io/badge/-Sydney%2C%20Australia-05070D?style=flat-square&logo=googlemaps&logoColor=4169E1"/>
 <img src="https://img.shields.io/badge/-Open%20to%20Work-05070D?style=flat-square&logo=statuspage&logoColor=7B1E3A"/>
-<img src="https://komarev.com/ghpvc/?username=AShah-01&style=flat-square&color=05070D&label=SIGNAL+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=AagamS06&style=flat-square&color=05070D&label=SIGNAL+VIEWS"/>
 
 </div>
 
@@ -75,7 +75,7 @@ for a genuine personal use case rather than just the hype.
 
 Cross-platform desktop companion app, fully customisable — built for neurodivergent people. Tauri 2 + React + TypeScript.
 
-<a href="https://github.com/AShah-01/Nanobox"><img src="https://img.shields.io/badge/-View%20Repo-05070D?style=flat-square&logo=github&logoColor=4169E1"/></a>
+<a href="https://github.com/AagamS06/Nanobox"><img src="https://img.shields.io/badge/-View%20Repo-05070D?style=flat-square&logo=github&logoColor=4169E1"/></a>
 
 </td>
 <td width="33%" valign="top">
@@ -84,7 +84,7 @@ Cross-platform desktop companion app, fully customisable — built for neurodive
 
 Plug-and-play developer portfolio UI components — interactive tech-stack grid, simulated terminal, responsive by default. Pure HTML/CSS/JS.
 
-<a href="https://github.com/AShah-01/Dev-Vault"><img src="https://img.shields.io/badge/-View%20Repo-05070D?style=flat-square&logo=github&logoColor=7B1E3A"/></a>
+<a href="https://github.com/AagamS06/Dev-Vault"><img src="https://img.shields.io/badge/-View%20Repo-05070D?style=flat-square&logo=github&logoColor=7B1E3A"/></a>
 
 </td>
 <td width="33%" valign="top">
@@ -93,7 +93,7 @@ Plug-and-play developer portfolio UI components — interactive tech-stack grid,
 
 Web app that turns dense tech jargon into plain, everyday English — for the average Joe, not just the engineer.
 
-<a href="https://github.com/AShah-01/Jargon-Translation-WebApp"><img src="https://img.shields.io/badge/-View%20Repo-05070D?style=flat-square&logo=github&logoColor=4169E1"/></a>
+<a href="https://github.com/AagamS06/Jargon-Translation-WebApp"><img src="https://img.shields.io/badge/-View%20Repo-05070D?style=flat-square&logo=github&logoColor=4169E1"/></a>
 
 </td>
 </tr>
@@ -107,17 +107,17 @@ Web app that turns dense tech jargon into plain, everyday English — for the av
 <table>
 <tr>
 <td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=AShah-01&show_icons=true&theme=dark&hide_border=true&bg_color=05070D&title_color=4169E1&icon_color=7B1E3A&text_color=E8E8E8&ring_color=4169E1" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AagamS06&show_icons=true&theme=dark&hide_border=true&bg_color=05070D&title_color=4169E1&icon_color=7B1E3A&text_color=E8E8E8&ring_color=4169E1" width="100%"/>
 </td>
 <td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AShah-01&layout=compact&theme=dark&hide_border=true&bg_color=05070D&title_color=4169E1&text_color=E8E8E8&langs_count=8" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AagamS06&layout=compact&theme=dark&hide_border=true&bg_color=05070D&title_color=4169E1&text_color=E8E8E8&langs_count=8" width="100%"/>
 </td>
 </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com/?user=AShah-01&theme=dark&hide_border=true&background=05070D&ring=4169E1&fire=7B1E3A&currStreakLabel=4169E1&sideLabels=9BA3B4&dates=5A6B7D" width="65%"/>
+<img src="https://streak-stats.demolab.com/?user=AagamS06&theme=dark&hide_border=true&background=05070D&ring=4169E1&fire=7B1E3A&currStreakLabel=4169E1&sideLabels=9BA3B4&dates=5A6B7D" width="65%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AShah-01&theme=react-dark&bg_color=05070D&color=4169E1&line=7B1E3A&point=4169E1&hide_border=true&area=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AagamS06&theme=react-dark&bg_color=05070D&color=4169E1&line=7B1E3A&point=4169E1&hide_border=true&area=true" width="90%"/>
 
 </div>
 
