@@ -107,17 +107,17 @@ Web app that turns dense tech jargon into plain, everyday English — for the av
 <table>
 <tr>
 <td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=AagamS06&show_icons=true&theme=dark&hide_border=true&bg_color=05070D&title_color=4169E1&icon_color=7B1E3A&text_color=E8E8E8&ring_color=4169E1" width="100%"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=AagamS06&show_icons=true&theme=dark&hide_border=true&bg_color=05070D&title_color=4169E1&icon_color=7B1E3A&text_color=E8E8E8&ring_color=4169E1" width="100%"/> -->
 </td>
 <td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AagamS06&layout=compact&theme=dark&hide_border=true&bg_color=05070D&title_color=4169E1&text_color=E8E8E8&langs_count=8" width="100%"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AagamS06&layout=compact&theme=dark&hide_border=true&bg_color=05070D&title_color=4169E1&text_color=E8E8E8&langs_count=8" width="100%"/> -->
 </td>
 </tr>
 </table>
 
 <img src="https://streak-stats.demolab.com/?user=AagamS06&theme=dark&hide_border=true&background=05070D&ring=4169E1&fire=7B1E3A&currStreakLabel=4169E1&sideLabels=9BA3B4&dates=5A6B7D" width="65%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AagamS06&theme=react-dark&bg_color=05070D&color=4169E1&line=7B1E3A&point=4169E1&hide_border=true&area=true" width="90%"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=AagamS06&theme=react-dark&bg_color=05070D&color=4169E1&line=7B1E3A&point=4169E1&hide_border=true&area=true" width="90%"/> -->
 
 </div>
 
